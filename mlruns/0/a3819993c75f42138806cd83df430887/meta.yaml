@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/0/a3819993c75f42138806cd83df430887/artifacts
+end_time: 1746539350736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3819993c75f42138806cd83df430887
+run_name: sedate-ape-899
+run_uuid: a3819993c75f42138806cd83df430887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746539337910
+status: 3
+tags: []
+user_id: kanha

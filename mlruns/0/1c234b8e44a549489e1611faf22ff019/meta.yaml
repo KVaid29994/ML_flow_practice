@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/0/1c234b8e44a549489e1611faf22ff019/artifacts
+end_time: 1746538525310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c234b8e44a549489e1611faf22ff019
+run_name: Neural Network
+run_uuid: 1c234b8e44a549489e1611faf22ff019
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746538517206
+status: 3
+tags: []
+user_id: kanha

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/0/d54f144494cb4a2e99dc03d28851c43b/artifacts
+end_time: 1746532590155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d54f144494cb4a2e99dc03d28851c43b
+run_name: upbeat-seal-531
+run_uuid: d54f144494cb4a2e99dc03d28851c43b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746532586778
+status: 4
+tags: []
+user_id: kanha

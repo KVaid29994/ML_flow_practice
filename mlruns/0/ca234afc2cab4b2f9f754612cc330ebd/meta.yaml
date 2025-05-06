@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/0/ca234afc2cab4b2f9f754612cc330ebd/artifacts
+end_time: 1746439851656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca234afc2cab4b2f9f754612cc330ebd
+run_name: delicate-gnat-153
+run_uuid: ca234afc2cab4b2f9f754612cc330ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746439844574
+status: 3
+tags: []
+user_id: kanha

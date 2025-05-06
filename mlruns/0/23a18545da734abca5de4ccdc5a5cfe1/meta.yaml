@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/0/23a18545da734abca5de4ccdc5a5cfe1/artifacts
+end_time: 1746538273894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23a18545da734abca5de4ccdc5a5cfe1
+run_name: chill-shark-172
+run_uuid: 23a18545da734abca5de4ccdc5a5cfe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746538273842
+status: 3
+tags: []
+user_id: kanha

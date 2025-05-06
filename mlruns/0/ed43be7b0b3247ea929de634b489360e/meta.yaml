@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/0/ed43be7b0b3247ea929de634b489360e/artifacts
+end_time: 1746531752645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed43be7b0b3247ea929de634b489360e
+run_name: handsome-shrike-962
+run_uuid: ed43be7b0b3247ea929de634b489360e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746531729757
+status: 3
+tags: []
+user_id: kanha

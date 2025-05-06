@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/0/8866892a530946bd931687fa660b0c1c/artifacts
+end_time: 1746532863506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8866892a530946bd931687fa660b0c1c
+run_name: nosy-bat-749
+run_uuid: 8866892a530946bd931687fa660b0c1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746532851524
+status: 3
+tags: []
+user_id: kanha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/997817737914995594/a795807b0b15462a961cdcad235a8e11/artifacts
+end_time: 1746539908951
+entry_point_name: ''
+experiment_id: '997817737914995594'
+lifecycle_stage: active
+run_id: a795807b0b15462a961cdcad235a8e11
+run_name: salty-squirrel-276
+run_uuid: a795807b0b15462a961cdcad235a8e11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746539902440
+status: 4
+tags: []
+user_id: kanha

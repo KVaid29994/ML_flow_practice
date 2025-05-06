@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/0/d98cd215e3c1454bbe695e5eaec5d53b/artifacts
+end_time: 1746538242435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d98cd215e3c1454bbe695e5eaec5d53b
+run_name: adventurous-slug-714
+run_uuid: d98cd215e3c1454bbe695e5eaec5d53b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746538242389
+status: 3
+tags: []
+user_id: kanha
