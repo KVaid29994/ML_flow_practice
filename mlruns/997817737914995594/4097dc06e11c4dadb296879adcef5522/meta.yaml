@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/997817737914995594/4097dc06e11c4dadb296879adcef5522/artifacts
+end_time: 1746877248981
+entry_point_name: ''
+experiment_id: '997817737914995594'
+lifecycle_stage: active
+run_id: 4097dc06e11c4dadb296879adcef5522
+run_name: dazzling-fowl-383
+run_uuid: 4097dc06e11c4dadb296879adcef5522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746877226822
+status: 3
+tags: []
+user_id: kanha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/997817737914995594/aab5693ce8f347c2a2f3707145f20512/artifacts
+end_time: 1746877248981
+entry_point_name: ''
+experiment_id: '997817737914995594'
+lifecycle_stage: active
+run_id: aab5693ce8f347c2a2f3707145f20512
+run_name: awesome-swan-605
+run_uuid: aab5693ce8f347c2a2f3707145f20512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746877226822
+status: 3
+tags: []
+user_id: kanha

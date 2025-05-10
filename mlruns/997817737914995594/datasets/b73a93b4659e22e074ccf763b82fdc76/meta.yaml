@@ -1,0 +1,10 @@
+digest: ecb43628
+name: dataset
+profile: '{"features_shape": [128, 13], "features_size": 1664, "features_nbytes":
+  13312, "targets_shape": [128], "targets_size": 128, "targets_nbytes": 512}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 13]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"int32\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "kanha", "mlflow.source.name": "src/autolog.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "45c099f3ff1f7e04eda4c4e97417150cfe66bda0"}}'
+source_type: code
