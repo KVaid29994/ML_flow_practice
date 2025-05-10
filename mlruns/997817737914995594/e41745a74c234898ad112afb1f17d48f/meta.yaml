@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/997817737914995594/e41745a74c234898ad112afb1f17d48f/artifacts
+end_time: 1746873140765
+entry_point_name: ''
+experiment_id: '997817737914995594'
+lifecycle_stage: active
+run_id: e41745a74c234898ad112afb1f17d48f
+run_name: Random Forest
+run_uuid: e41745a74c234898ad112afb1f17d48f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746873114994
+status: 3
+tags: []
+user_id: kanha
