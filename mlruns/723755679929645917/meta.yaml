@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/723755679929645917
+creation_time: 1746878372112
+experiment_id: '723755679929645917'
+last_update_time: 1746878372112
+lifecycle_stage: active
+name: breast-cancer-rf-hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/723755679929645917/8ec5fe94f6634c628d69676c69a08a57/artifacts
+end_time: 1746878380833
+entry_point_name: ''
+experiment_id: '723755679929645917'
+lifecycle_stage: active
+run_id: 8ec5fe94f6634c628d69676c69a08a57
+run_name: clean-deer-215
+run_uuid: 8ec5fe94f6634c628d69676c69a08a57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878380726
+status: 3
+tags: []
+user_id: kanha

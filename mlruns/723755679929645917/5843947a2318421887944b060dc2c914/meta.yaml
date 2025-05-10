@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/723755679929645917/5843947a2318421887944b060dc2c914/artifacts
+end_time: 1746878687956
+entry_point_name: ''
+experiment_id: '723755679929645917'
+lifecycle_stage: active
+run_id: 5843947a2318421887944b060dc2c914
+run_name: gentle-dolphin-721
+run_uuid: 5843947a2318421887944b060dc2c914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878687839
+status: 3
+tags: []
+user_id: kanha

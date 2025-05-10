@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/723755679929645917/7d71b85edc0c4b27a200917179bba70e/artifacts
+end_time: 1746878688241
+entry_point_name: ''
+experiment_id: '723755679929645917'
+lifecycle_stage: active
+run_id: 7d71b85edc0c4b27a200917179bba70e
+run_name: dazzling-cod-981
+run_uuid: 7d71b85edc0c4b27a200917179bba70e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878688155
+status: 3
+tags: []
+user_id: kanha

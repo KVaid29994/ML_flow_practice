@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/723755679929645917/868d01a9675146d1a576c749bb6f3e61/artifacts
+end_time: 1746878688705
+entry_point_name: ''
+experiment_id: '723755679929645917'
+lifecycle_stage: active
+run_id: 868d01a9675146d1a576c749bb6f3e61
+run_name: unequaled-mare-493
+run_uuid: 868d01a9675146d1a576c749bb6f3e61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878688628
+status: 3
+tags: []
+user_id: kanha

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/723755679929645917/0cc008879c414d25859913ac9e110676/artifacts
+end_time: 1746878688531
+entry_point_name: ''
+experiment_id: '723755679929645917'
+lifecycle_stage: active
+run_id: 0cc008879c414d25859913ac9e110676
+run_name: enchanting-smelt-108
+run_uuid: 0cc008879c414d25859913ac9e110676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878688440
+status: 3
+tags: []
+user_id: kanha

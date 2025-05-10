@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/723755679929645917/ccf97e3ed534413c9678371caf1d0bf9/artifacts
+end_time: 1746878380619
+entry_point_name: ''
+experiment_id: '723755679929645917'
+lifecycle_stage: active
+run_id: ccf97e3ed534413c9678371caf1d0bf9
+run_name: rumbling-rat-387
+run_uuid: ccf97e3ed534413c9678371caf1d0bf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878380500
+status: 3
+tags: []
+user_id: kanha

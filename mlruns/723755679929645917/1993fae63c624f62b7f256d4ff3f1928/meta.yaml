@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/723755679929645917/1993fae63c624f62b7f256d4ff3f1928/artifacts
+end_time: 1746878379952
+entry_point_name: ''
+experiment_id: '723755679929645917'
+lifecycle_stage: active
+run_id: 1993fae63c624f62b7f256d4ff3f1928
+run_name: selective-slug-582
+run_uuid: 1993fae63c624f62b7f256d4ff3f1928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878379887
+status: 3
+tags: []
+user_id: kanha

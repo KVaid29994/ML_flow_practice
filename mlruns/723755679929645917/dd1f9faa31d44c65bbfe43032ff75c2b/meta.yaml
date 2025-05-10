@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/723755679929645917/dd1f9faa31d44c65bbfe43032ff75c2b/artifacts
+end_time: 1746878688433
+entry_point_name: ''
+experiment_id: '723755679929645917'
+lifecycle_stage: active
+run_id: dd1f9faa31d44c65bbfe43032ff75c2b
+run_name: dashing-fox-588
+run_uuid: dd1f9faa31d44c65bbfe43032ff75c2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878688347
+status: 3
+tags: []
+user_id: kanha

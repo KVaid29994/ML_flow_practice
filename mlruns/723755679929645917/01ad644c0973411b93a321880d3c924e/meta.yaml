@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/723755679929645917/01ad644c0973411b93a321880d3c924e/artifacts
+end_time: 1746878380472
+entry_point_name: ''
+experiment_id: '723755679929645917'
+lifecycle_stage: active
+run_id: 01ad644c0973411b93a321880d3c924e
+run_name: traveling-bear-897
+run_uuid: 01ad644c0973411b93a321880d3c924e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878380350
+status: 3
+tags: []
+user_id: kanha

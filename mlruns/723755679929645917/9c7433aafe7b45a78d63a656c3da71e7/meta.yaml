@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/723755679929645917/9c7433aafe7b45a78d63a656c3da71e7/artifacts
+end_time: 1746878393784
+entry_point_name: ''
+experiment_id: '723755679929645917'
+lifecycle_stage: active
+run_id: 9c7433aafe7b45a78d63a656c3da71e7
+run_name: mysterious-bear-327
+run_uuid: 9c7433aafe7b45a78d63a656c3da71e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878373497
+status: 3
+tags: []
+user_id: kanha

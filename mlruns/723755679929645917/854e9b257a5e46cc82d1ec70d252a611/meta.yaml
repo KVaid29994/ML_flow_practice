@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/723755679929645917/854e9b257a5e46cc82d1ec70d252a611/artifacts
+end_time: 1746878688790
+entry_point_name: ''
+experiment_id: '723755679929645917'
+lifecycle_stage: active
+run_id: 854e9b257a5e46cc82d1ec70d252a611
+run_name: painted-whale-354
+run_uuid: 854e9b257a5e46cc82d1ec70d252a611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878688712
+status: 3
+tags: []
+user_id: kanha

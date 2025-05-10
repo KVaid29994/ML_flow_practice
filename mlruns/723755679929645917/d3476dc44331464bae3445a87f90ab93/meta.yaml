@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/723755679929645917/d3476dc44331464bae3445a87f90ab93/artifacts
+end_time: 1746878688880
+entry_point_name: ''
+experiment_id: '723755679929645917'
+lifecycle_stage: active
+run_id: d3476dc44331464bae3445a87f90ab93
+run_name: agreeable-seal-419
+run_uuid: d3476dc44331464bae3445a87f90ab93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878688796
+status: 3
+tags: []
+user_id: kanha

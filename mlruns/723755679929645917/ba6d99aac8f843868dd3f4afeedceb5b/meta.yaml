@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/723755679929645917/ba6d99aac8f843868dd3f4afeedceb5b/artifacts
+end_time: 1746878380151
+entry_point_name: ''
+experiment_id: '723755679929645917'
+lifecycle_stage: active
+run_id: ba6d99aac8f843868dd3f4afeedceb5b
+run_name: receptive-flea-871
+run_uuid: ba6d99aac8f843868dd3f4afeedceb5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878380088
+status: 3
+tags: []
+user_id: kanha

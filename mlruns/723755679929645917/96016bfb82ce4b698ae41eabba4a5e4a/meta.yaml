@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/723755679929645917/96016bfb82ce4b698ae41eabba4a5e4a/artifacts
+end_time: 1746878380343
+entry_point_name: ''
+experiment_id: '723755679929645917'
+lifecycle_stage: active
+run_id: 96016bfb82ce4b698ae41eabba4a5e4a
+run_name: thundering-stoat-778
+run_uuid: 96016bfb82ce4b698ae41eabba4a5e4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878380283
+status: 3
+tags: []
+user_id: kanha

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kanha/Desktop/MLops/ML_flow/mlruns/723755679929645917/2252d863518a466888e71b3cbf8408bd/artifacts
+end_time: 1746878380016
+entry_point_name: ''
+experiment_id: '723755679929645917'
+lifecycle_stage: active
+run_id: 2252d863518a466888e71b3cbf8408bd
+run_name: carefree-smelt-226
+run_uuid: 2252d863518a466888e71b3cbf8408bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878379958
+status: 3
+tags: []
+user_id: kanha
